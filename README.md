@@ -1,4 +1,3 @@
-# Code and the Codex  
 # Ebooks as Applications
 
 Talk for [E-book Revolution](https://apps.mla.org/program_details?prog_id=75&year=2017), a special session for MLA 2017.
@@ -23,7 +22,7 @@ A digital book incorporating rich media and geolocal data.
 
 [Hacking the Academy](http://hackingtheacademy.org/)
 
-An edited collection crowdsourced over the course of one week.
+An edited collection on academic communication crowdsourced over the course of one week.
 
 [Social Edition of the Devonshire Manuscript](https://en.wikibooks.org/wiki/The_Devonshire_Manuscript)
 
@@ -37,8 +36,27 @@ A tool for publishing academic writing in print and online elegantly and simulta
 
 Folger editions of Shakespeare plays for the iPad that incorporate crowdsourced and professional commentary and other Web 2.0 features.
 
+[Twine](https://twinery.org/)
 
-der bruder
+A tool for interactive, nonlinear storytelling.
 
-<http://luna.folger.edu/luna/servlet/detail/FOLGERCM1~6~6~637795~142616:Panoplia-omnium-illiberalium-mechan;JSESSIONID=c4a05d33-fff6-4278-bd8d-49002e412e17?trs=1&sort=Call_Number%2CAuthor%2CCD_Title%2CImprint&qvq=q%3AROOTFILE%3D4213%2B%2B%3Bsort%3ACall_Number%2CAuthor%2CCD_Title%2CImprint%3Blc%3AFOLGERCM1~6~6&mi=0&cic=FOLGERCM1~6~6>
+[ULTRA BUSINESS TYCOON III](http://aliendovecote.com/uploads/twine/tycoon/crime.html)
+
+Interactive fiction about the personal associations between childhood abuse and gaming in the memories of a young woman. 
+
+[Inform 7](http://inform7.com/)
+
+A system for creating interactive fiction declaratively through natural language. Used to create classics of the genre such as [/Counterfeit Monkey/](http://emshort.com/counterfeit_monkey).
+
+### Image credits
+
+Woodcut of Typographus. Der Buchdrucker [The Printer]. Jost Amman (1539-1591). From Folger Library.
+
+Manicule in margin of Terentius cum tribus commentis, 1501. From Newberry Library.
+
+Screenshot of Inform 7 IDE. From [chmod 644](https://www.windracer.net/blog/2011/12/creating-interactive-fiction-with-inform-7/).
+
+Other images are screenshots, which are derivative works. Please refer to the license of the depicted software for restrictions on use.
+
+
 

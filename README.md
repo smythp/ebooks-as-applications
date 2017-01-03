@@ -26,7 +26,7 @@ An edited collection crowdsourced over the course of one week.
 
 A collaborative online edition of the Devonshire manuscript, an early modern text authored by courtiers during the reign of Henry VIII.
 
-[Building Manifold](http://manifold.umn.edu/)
+[Manifold Scholarship](http://manifold.umn.edu/)
 
 A tool for publishing academic writing in print and online elegantly and simultaneously. Under development at the CUNY Graduate Center.
 

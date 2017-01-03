@@ -18,23 +18,24 @@ A book/game hybrid for iPad in which readers interact with text through sound, s
 
 [The Silent History](http://thesilenthistory.com/)
 
-A digital book incorporating rich media and geolocal data.
+A digital novel incorporating rich media and geolocal data authored by Eli Horowitz and a group of geographically diverse contributors.
+
 
 [Hacking the Academy](http://hackingtheacademy.org/)
 
-An edited collection on academic communication crowdsourced over the course of one week.
+An edited collection on academic culture in the 21st century crowdsourced over the course of one week in 2010. A project of the Roy Rosenzweig Center for History and New Media.
 
 [Social Edition of the Devonshire Manuscript](https://en.wikibooks.org/wiki/The_Devonshire_Manuscript)
 
-A collaborative online edition of the Devonshire manuscript, an early modern text authored by courtiers during the reign of Henry VIII.
+A collaborative online edition of the Devonshire manuscript, an early modern text authored by courtiers during the reign of Henry VIII. Initiated by Ray Siemens.
 
 [Manifold Scholarship](http://manifold.umn.edu/)
 
-A tool for publishing academic writing in print and online elegantly and simultaneously. Under development at the CUNY Graduate Center.
+A tool for publishing academic writing in print and online elegantly and simultaneously. Development led by Matthrew K. Gold at The Graduate Center, CUNY.
 
 [Folger Luminary Shakespeare Apps](http://www.folger.edu/folger-luminary-shakespeare-apps)
 
-Folger editions of Shakespeare plays for the iPad that incorporate crowdsourced and professional commentary and other Web 2.0 features.
+Folger editions of Shakespeare plays for the iPad that incorporate crowdsourced and professional commentary in addition to other Web 2.0 features.
 
 [Twine](https://twinery.org/)
 
@@ -46,7 +47,13 @@ Interactive fiction about the personal associations between childhood abuse and 
 
 [Inform 7](http://inform7.com/)
 
-A system for creating interactive fiction declaratively through natural language. Used to create classics of the genre such as [/Counterfeit Monkey/](http://emshort.com/counterfeit_monkey).
+A system for creating interactive fiction declaratively through natural language. Used to create classics of the genre such as Emily Short's [Counterfeit Monkey](http://emshort.com/counterfeit_monkey).
+
+### Abstract
+
+What, precisely, is a book? For long periods of history, books have been associated with discrete forms, such as the scroll and the codex. Over the past two decades, the popular conception of the book has been expanded to include a succession of specialized file formats, including .lit, .mobi, and .epub. While these "standard" e-book formats allowed for new affordances and reading modalities, e-books of this kind were still fundamentally recognizable as books. More recently, however, a variety of authorship and publishing approaches have emerged that blur the boundaries among applications, platforms, and books. These developments suggest a future in which books—and the experience of reading—will be more varied and less recognizable, and suggest new modes of interaction among readers, authors, and publishers.
+
+For the Special Session on the E-book Revolution, I propose to look beyond standard and "enhanced" e-book formats to a new and expanding category of e-book-application hybrids. These include interactive applications such as The Silent History and Device6, crowdsourced book projects, and authoring platforms that allow for nonlinear reading experiences, such as Inform and Twine. I will also touch on the use of ebook-app hybrids in scholarly publishing, such as Scalar, the nonlinear authoring platform,  and GitBooks, a version control powered writing collaboration tool. Finally, in exploring these emerging approaches to the book as a form, I will also draw on paratextual theory and the writings of Gérard Genette to sound out contemporary differences in the reception and consumption of books, using e-book/app hybrids as a point of reference to indicate how social conceptions of the book have both changed and remained the same.
 
 ### Image credits
 

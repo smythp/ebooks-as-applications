@@ -22,11 +22,11 @@
 #+REVEAL_HTML: <li>Books can be shared</li>
 #+REVEAL_HTML: </div>
 #+REVEAL_HTML: <div style="width:50%;float: left">
-#+REVEAL_HTML: <img src="printer.jpg" style="width: 100%">
+#+REVEAL_HTML: <img src="images/printer.jpg" style="width: 100%">
 #+REVEAL_HTML: </div>
 ** 
 #+REVEAL_HTML: <div style="width:50%;float: left">
-#+REVEAL_HTML: <img src="manicule.jpg" style="width: 100%">
+#+REVEAL_HTML: <img src="images/manicule.jpg" style="width: 100%">
 #+REVEAL_HTML: </div>
 #+REVEAL_HTML: <div style="width:50%;float:left">
 #+REVEAL_HTML:<br><br>
@@ -40,36 +40,36 @@
 #+REVEAL_HTML: </div>
 * Embedded Literature
 ** 
-[[./wiki.png]]
+[[./images/wiki.png]]
 ** 
-[[./gutenberg-google.png]]
+[[./images/gutenberg-google.png]]
 ** 
-[[./gutenberg-galaxy.png]]
+[[./images/gutenberg-galaxy.png]]
 ** 
-[[./scribd.png]]
+[[./images/scribd.png]]
 
 * Ebooks as Applications
 * Mobile Apps
 ** DEVICE 6
-[[./device.png]]
+[[./images/device.png]]
 ** Folger editions
-[[./tempest.png]]
+[[./images/tempest.png]]
 ** The Silent History
-[[./silent.png]]
+[[./images/silent.png]]
 * Crowdsourced Books
 - Hacking the Academy
 - Devonshire Manuscript
 - Manifold Scholarship
 * Nonlinear Reading
 ** Scalar
-[[./scalar.png]]
+[[./images/scalar.png]]
 ** Twine
-[[./twine.png]]
+[[./images/twine.png]]
 ** Inform
-[[./inform.png]]
+[[./images/inform.png]]
 * Ebooks as Code
 ** GitBook
-[[./gitbook.png]]
+[[./images/gitbook.png]]
 
 
 

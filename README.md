@@ -1,4 +1,7 @@
+# Code and the Codex  
 # Ebooks as Applications
+
+Talk for [E-book Revolution](https://apps.mla.org/program_details?prog_id=75&year=2017), a special session for MLA 2017.
 
 ### Presentation
 

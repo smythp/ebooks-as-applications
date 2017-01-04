@@ -1,6 +1,6 @@
 # Ebooks as Applications
 
-Talk for [E-book Revolution](https://apps.mla.org/program_details?prog_id=75&year=2017), a special session for MLA 2017.
+Talk by Patrick Smyth for [E-book Revolution](https://apps.mla.org/program_details?prog_id=75&year=2017), a special session for MLA 2017.
 
 ### Presentation
 
@@ -20,14 +20,13 @@ A book/game hybrid for iPad in which readers interact with text through sound, s
 
 A digital novel incorporating rich media and geolocal data authored by Eli Horowitz and a group of geographically diverse contributors.
 
-
 [Hacking the Academy](http://hackingtheacademy.org/)
 
 An edited collection on academic culture in the 21st century crowdsourced over the course of one week in 2010. A project of the Roy Rosenzweig Center for History and New Media.
 
 [Social Edition of the Devonshire Manuscript](https://en.wikibooks.org/wiki/The_Devonshire_Manuscript)
 
-A collaborative online edition of the Devonshire manuscript, an early modern text authored by courtiers during the reign of Henry VIII. Initiated by Ray Siemens.
+A collaborative online edition of the Devonshire manuscript, an early modern text authored by courtiers during the reign of Henry VIII. Initiated by Ray Siemens (University of Victoria).
 
 [Manifold Scholarship](http://manifold.umn.edu/)
 
@@ -54,6 +53,10 @@ A system for creating interactive fiction declaratively through natural language
 What, precisely, is a book? For long periods of history, books have been associated with discrete forms, such as the scroll and the codex. Over the past two decades, the popular conception of the book has been expanded to include a succession of specialized file formats, including .lit, .mobi, and .epub. While these "standard" e-book formats allowed for new affordances and reading modalities, e-books of this kind were still fundamentally recognizable as books. More recently, however, a variety of authorship and publishing approaches have emerged that blur the boundaries among applications, platforms, and books. These developments suggest a future in which books—and the experience of reading—will be more varied and less recognizable, and suggest new modes of interaction among readers, authors, and publishers.
 
 For the Special Session on the E-book Revolution, I propose to look beyond standard and "enhanced" e-book formats to a new and expanding category of e-book-application hybrids. These include interactive applications such as The Silent History and Device6, crowdsourced book projects, and authoring platforms that allow for nonlinear reading experiences, such as Inform and Twine. I will also touch on the use of ebook-app hybrids in scholarly publishing, such as Scalar, the nonlinear authoring platform,  and GitBooks, a version control powered writing collaboration tool. Finally, in exploring these emerging approaches to the book as a form, I will also draw on paratextual theory and the writings of Gérard Genette to sound out contemporary differences in the reception and consumption of books, using e-book/app hybrids as a point of reference to indicate how social conceptions of the book have both changed and remained the same.
+
+[GitBook](https://www.gitbook.com/)
+
+A tool chain and authoring platform for publishing books using technologies based on plain text, such as markdown.
 
 ### Image credits
 

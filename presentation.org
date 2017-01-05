@@ -55,7 +55,7 @@ Twitter:
 ** DEVICE 6
 [[./images/device.png]]
 * Crowdsourced Books
-- Planned Obselescence
+- Planned Obsolescence
 - Manifold Scholarship
 - Devonshire Manuscript
 * Nonlinear Reading
